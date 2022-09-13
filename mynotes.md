@@ -17,3 +17,8 @@
 * css
 * spec - testing
 
+### add components 
+#### header
+
+`.\node_modules\.bin\ng generate component components/header`
+
